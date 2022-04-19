@@ -1,2 +1,2 @@
-# Gitlet
+# Giglet
 ホームページ
